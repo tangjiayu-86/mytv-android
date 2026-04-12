@@ -66,7 +66,6 @@
 
 ## 相关项目
 - [rtphttpd - IPTV转发工具] (https://github.com/stackia/rtp2httpd)
-- [Global Free TV — 网页版 IPTV] (https://www.globalfreetv.com/)
 
 ## 参与开发
 
